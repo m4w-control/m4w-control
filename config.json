@@ -1,12 +1,12 @@
 {
-  "global_block": false,
+  "global_block": true,
   "blocked_devices": [],
   "min_version": "",
-  "announcement": "صلي على النبي 🌺",
-  "engine_update_enabled": true,
+  "announcement": "",
+  "engine_update_enabled": false,
   "engine_update_devices": [],
-  "ads_enabled": true,
-  "ad_banner_text": "صلي على النبي 🌺",
+  "ads_enabled": false,
+  "ad_banner_text": "",
   "ad_banner_url": "",
   "owner_hash_override": ""
 }
