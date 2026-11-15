@@ -10,5 +10,12 @@
   "ads_enabled": false,
   "ad_banner_text": "",
   "ad_banner_url": "",
-  "owner_hash_override": ""
+  "owner_hash_override": "",
+  "notice_text": "",
+  "update_url": "",
+  "ad_banner_image": "",
+  "disable_youtube": false,
+  "disable_instagram": false,
+  "disable_facebook": false,
+  "disable_udemy": false
 }
