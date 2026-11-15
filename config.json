@@ -1,5 +1,5 @@
 {
-  "global_block": true,
+  "global_block": false,
   "blocked_devices": [],
   "min_version": "",
   "announcement": "",
