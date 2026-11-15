@@ -2,11 +2,11 @@
   "global_block": false,
   "blocked_devices": [],
   "min_version": "",
-  "announcement": "",
-  "engine_update_enabled": false,
+  "announcement": "صلي على النبي 🌺",
+  "engine_update_enabled": true,
   "engine_update_devices": [],
-  "ads_enabled": false,
-  "ad_banner_text": "",
+  "ads_enabled": true,
+  "ad_banner_text": "صلي على النبي 🌺",
   "ad_banner_url": "",
   "owner_hash_override": ""
 }
