@@ -4,7 +4,9 @@
   "min_version": "",
   "announcement": "",
   "engine_update_enabled": false,
-  "engine_update_devices": [],
+  "engine_update_devices": [
+    "XVNO2FIG"
+  ],
   "ads_enabled": false,
   "ad_banner_text": "",
   "ad_banner_url": "",
