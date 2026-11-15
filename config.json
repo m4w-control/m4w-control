@@ -1,0 +1,12 @@
+{
+  "global_block": false,
+  "blocked_devices": [],
+  "min_version": "",
+  "announcement": "",
+  "engine_update_enabled": false,
+  "engine_update_devices": [],
+  "ads_enabled": false,
+  "ad_banner_text": "",
+  "ad_banner_url": "",
+  "owner_hash_override": ""
+}
