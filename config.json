@@ -2,11 +2,11 @@
   "global_block": false,
   "blocked_devices": [],
   "min_version": "",
-  "announcement": "🎉 دي رسالة تجريبية من ملف التحكم — التحكم عن بُعد شغال!",
+  "announcement": "",
   "engine_update_enabled": false,
   "engine_update_devices": [],
-  "ads_enabled": true,
-  "ad_banner_text": "إعلان تجريبي من لوحة تحكم M4W",
+  "ads_enabled": false,
+  "ad_banner_text": "",
   "ad_banner_url": "",
   "owner_hash_override": ""
 }
